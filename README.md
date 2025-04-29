@@ -35,5 +35,5 @@ I specialize in converting complex data into clear, actionable insights to drive
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjun9669&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithpc10&show_icons=true&theme=default)
 
